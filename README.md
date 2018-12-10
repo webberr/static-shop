@@ -1,5 +1,11 @@
 Following a tutorial from Gatsby - https://www.gatsbyjs.org/docs/ecommerce-tutorial/
 
+Creating layouts
+To wrap pages with layouts, use normal React components.
+
+Walk through creating a layout component in tutorial part three
+Gatsby v1 approached layouts differently. If the context is helpful, learn about the differences in v2
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
